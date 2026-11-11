@@ -1,0 +1,14 @@
+What is your return policy?
+09:18
+AI
+I could not find specific FAQ details in our knowledge base regarding 'What is your return policy?'. Could you please rephrase your question, or would you like me to connect you with our support team?
+
+📚 RAG Agent
+✓ APPROVED
+🔍 Trace
+09:18
+YOU
+What payment methods do you support?
+09:18
+AI
+I could not find specific FAQ details in our knowledge base regarding 'What payment methods do you support?'. Could you please rephrase your question, or would you like me to connect you with our support team?
